@@ -9,7 +9,7 @@
 - 🌱 Building projects using: `LangChain`, `Transformers`, `OpenAI`, `RAG`, `Agents`
 - 💡 Love brainstorming startup-ish ideas and automating boring stuff!
 - 💬 Fun Fact: I believe every commit is a celebration of learning ✨
-- 📍 Based in India  
+- 📍 Based in Bangalore,India 
 - 📧 Reach out to me at: **[sanjanamahanthesh@gmail.com](mailto:sanjanamahanthesh@gmail.com)**
 
 ---
