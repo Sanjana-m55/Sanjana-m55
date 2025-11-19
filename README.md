@@ -201,10 +201,15 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-m55&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Sanjana's GitHub Stats" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-m55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-m55&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF&sideLabels=00F7FF&dates=C9D1D9" alt="Sanjana's Streak Stats" />
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-m55&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook" alt="Most Used Languages" />
+
+<img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Sanjana-m55&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&ring_color=00F7FF&combine_all_yearly_contributions=true" alt="Top Contributions" />
 
 </div>
 
@@ -214,7 +219,7 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sanjana-m55&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjana-m55&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -224,11 +229,17 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-m55&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF)
+[![Sanjana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-m55&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![Snake animation](https://github.com/Sanjana-m55/Sanjana-m55/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
