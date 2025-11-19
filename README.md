@@ -19,7 +19,7 @@ user:
   name: "Sanjana M"
   role: "AI/ML Engineer"
   location: "Bangalore, India 🇮🇳"
-  education: "BTech AI & Data Science [9.1 CGPA]"
+  education: "B.E in AI & Data Science [9.1 CGPA]"
   
 specialization:
   - Generative AI
