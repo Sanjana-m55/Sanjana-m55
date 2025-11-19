@@ -92,6 +92,8 @@ mission: "Creating scalable solutions for real-world problems"
 
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/NEO4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ▸ DEVELOPMENT TOOLS
 
@@ -99,6 +101,7 @@ mission: "Creating scalable solutions for real-world problems"
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -198,7 +201,7 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF&fire_ring_color=00F7FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-m55&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-m55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" />
