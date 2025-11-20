@@ -213,17 +213,6 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 </div>
 
----
-
-## 🏆 ACHIEVEMENT MODULES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjana-m55&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
-
-</div>
-
----
 
 ## 📈 NEURAL ACTIVITY MAP
 
