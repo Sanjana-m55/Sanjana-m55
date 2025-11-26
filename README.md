@@ -201,24 +201,40 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Sanjana's GitHub Stats" />
+### 🔥 Total Contributions  
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&bg_color=0D1117" width="450"/>
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-m55&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF&sideLabels=00F7FF&dates=C9D1D9" alt="Sanjana's Streak Stats" />
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-m55&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook" alt="Most Used Languages" />
-
-<img width="45%" src="https://github-contributor-stats.vercel.app/api?username=Sanjana-m55&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&ring_color=00F7FF&combine_all_yearly_contributions=true" alt="Top Contributions" />
+### 🔥 Contribution Streak  
+<img src="https://streak-stats.demolab.com/?user=Sanjana-m55&hide_border=true&currStreakLabel=00F7FF&sideNums=00F7FF&dates=C9D1D9&ring=00F7FF&fire=FF6B6B&stroke=00F7FF&background=0D1117" width="450"/>
 
 </div>
 
 
-## 📈 NEURAL ACTIVITY MAP
+### 🔥 Longest Streak  
+<img src="https://streak-stats.demolab.com?user=Sanjana-m55&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=00F7FF&background=0D1117" width="200">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+## 🎯 CONTRIBUTION ANALYTICS
 
 <div align="center">
 
-[![Sanjana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-m55&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjana-m55&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanjana-m55&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -228,57 +244,138 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-![Snake animation](https://github.com/Sanjana-m55/Sanjana-m55/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjana-m55/Sanjana-m55/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjana-m55/Sanjana-m55/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjana-m55/Sanjana-m55/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🎖️ CREDENTIALS & RECOGNITION
+## 🎓 CREDENTIALS & ACHIEVEMENTS
 
 <div align="center">
 
 ```diff
-+ WINNER     → Zelestra X AWS ML Ascend Challenge 2025
-+ FINALIST   → ATEMCS Global Hackathon (Semi-Finalist)
-+ RUNNER-UP  → Inter-College Hackathon, SVIT College
-+ PUBLISHED  → IOSR Journal of Computer Engineering (Vol. 27, Issue 2)
-+ ACTIVE     → Open-Source Contributor (Hacktoberfest 2025 & GSSoC 2025)
-+ CERTIFIED  → Machine Learning Intern - Orinson Technologies (92% Accuracy)
+@@ HACKATHONS & COMPETITIONS @@
++ 🏆 WINNER     → Zelestra X AWS ML Ascend Challenge 2025
++ 🥈 FINALIST   → ATEMCS Global Hackathon (Semi-Finalist)
++ 🥉 RUNNER-UP  → Inter-College Hackathon, SVIT College
+
+@@ RESEARCH & PUBLICATIONS @@
++ 📝 PUBLISHED  → IOSR Journal of Computer Engineering (Vol. 27, Issue 2)
++ 📊 CITATION   → AI-Driven Personal Finance Management System
+
+@@ PROFESSIONAL EXPERIENCE @@
++ 💼 ML INTERN  → Orinson Technologies (92% Model Accuracy)
++ 🎯 CERTIFIED  → Machine Learning Specialization
++ 🔬 RESEARCH   → Focus on RAG Systems & AI Agents
+
+@@ OPEN SOURCE @@
++ 🌟 ACTIVE     → Open-Source Contributor
++ 🎃 2024       → Hacktoberfest Participant
++ 💚 2025       → GSSoC Extended Contributor
 ```
 
 </div>
 
 ---
 
-<div align="center">
+## 💼 PROFESSIONAL TIMELINE
 
-## ⚡ INITIATE CONNECTION PROTOCOL
+```mermaid
+timeline
+    title Career Timeline
+    2025 : Winner – Zelestra X AWS Challenge
+         : Finalist – ATEMCS Hackathon
+         : GSSoC Extended Contributor
+         : RAG & Agent Projects
+         : Hacktoberfest Contributor
+    2024 : Research Published (IOSR)
+         : ML Intern – Orinson Technologies
+         : Inter-College Hackathon Runner-Up
+    2023 : B.E in AI & Data Science
+         : ML & Deep Learning Foundation
+         : First Production AI Systems
 
-[![SEND MESSAGE](https://img.shields.io/badge/◉_SEND_MESSAGE-00F7FF?style=for-the-badge&logoColor=white)](mailto:sanjanamahantesh@gmail.com)
-[![CONNECT NETWORK](https://img.shields.io/badge/◉_CONNECT_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-m--)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=OPEN+TO+COLLABORATIONS;LET'S+BUILD+THE+FUTURE+TOGETHER;ALWAYS+INNOVATING+%7C+ALWAYS+LEARNING)](https://git.io/typing-svg)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sanjana-m55&color=00F7FF&style=for-the-badge&label=SYSTEM+ACCESS+COUNT)
+```
 
 </div>
 
+---
+
+## 🌟 FEATURED REPOSITORIES
+
+<div align="center">
+
+<a href="https://github.com/Sanjana-m55/Decision-Lens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Decision-Lens&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/Sanjana-m55/Solar-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Solar-Analysis&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/Sanjana-m55/Money-Map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Money-Map&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+</div>
+
+---
+
+## 📫 CONNECT WITH ME
+
+<div align="center">
+
+### Let's Build Something Amazing Together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/◉_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-m--)
+[![Email](https://img.shields.io/badge/◉_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanamahantesh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◉_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sannnportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/◉_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjana-m55)
+
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=OPEN+TO+COLLABORATIONS;LET'S+BUILD+THE+FUTURE+TOGETHER;ALWAYS+INNOVATING+%7C+ALWAYS+LEARNING;TRANSFORMING+IDEAS+INTO+REALITY)](https://git.io/typing-svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanjana-m55&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║  >> SYSTEM STATUS: ONLINE                                 ║
-║  >> MODE: INNOVATION                                      ║
-║  >> OBJECTIVE: BUILDING INTELLIGENT SOLUTIONS             ║
+║                                                           ║
+║  >> SYSTEM STATUS        : ONLINE                         ║
+║  >> CURRENT MODE         : INNOVATION & DEVELOPMENT       ║
+║  >> ACTIVE PROJECTS      : 17+                            ║
+║  >> FOCUS AREAS          : RAG | AI AGENTS | LLMs         ║
+║  >> COLLABORATION STATUS : OPEN                           ║
+║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+### ⭐ Star my repositories if you find them useful!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
