@@ -350,26 +350,6 @@ timeline
 
 ---
 
-## 🌟 FEATURED REPOSITORIES
-
-<div align="center">
-
-<a href="https://github.com/Sanjana-m55/Decision-Lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Decision-Lens&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-<a href="https://github.com/Sanjana-m55/Solar-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Solar-Analysis&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-<a href="https://github.com/Sanjana-m55/Money-Map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjana-m55&repo=Money-Map&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-</div>
-
----
-
 ## 📫 CONNECT WITH ME
 
 <div align="center">
