@@ -201,19 +201,63 @@ AI-driven finance platform with automated insights, chatbot assistance, and pers
 
 <div align="center">
 
-### 🔥 Total Contributions  
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjana-m55&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&bg_color=0D1117" width="450"/>
+<table>
+<tr>
 
-### 🔥 Contribution Streak  
-<img src="https://streak-stats.demolab.com/?user=Sanjana-m55&hide_border=true&currStreakLabel=00F7FF&sideNums=00F7FF&dates=C9D1D9&ring=00F7FF&fire=FF6B6B&stroke=00F7FF&background=0D1117" width="450"/>
+<td>
+
+<div style="
+  padding:18px;
+  width:180px;
+  border-radius:20px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(0,247,255,0.4);
+  backdrop-filter: blur(8px);
+  text-align:center;">
+  
+<h3 style="margin:5px 0; color:#fff;">🔥 Total Contributions</h3>
+<p style="color:#00F7FF; font-size:22px; font-weight:600;">107</p>
 
 </div>
 
+</td>
 
-### 🔥 Longest Streak  
-<img src="https://streak-stats.demolab.com?user=Sanjana-m55&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=00F7FF&background=0D1117" width="200">
+<td>
+
+<div style="
+  padding:18px;
+  width:180px;
+  border-radius:20px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(0,247,255,0.4);
+  backdrop-filter: blur(8px);
+  text-align:center;">
+  
+<h3 style="margin:5px 0; color:#fff;">🔥 Current Streak</h3>
+<p style="color:#00F7FF; font-size:22px; font-weight:600;">1 Day</p>
+
+</div>
 
 </td>
+
+<td>
+
+<div style="
+  padding:18px;
+  width:180px;
+  border-radius:20px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(0,247,255,0.4);
+  backdrop-filter: blur(8px);
+  text-align:center;">
+  
+<h3 style="margin:5px 0; color:#fff;">🔥 Longest Streak</h3>
+<p style="color:#00F7FF; font-size:22px; font-weight:600;">3 Days</p>
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
